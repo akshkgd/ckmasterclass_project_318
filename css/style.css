@@ -26,3 +26,31 @@ body{
     height: 70px;
     width: 70px;
 }
+.mbanner{
+    background-image: url('/img/hosting.jpeg');
+    height: 400px;
+    background-size: cover;
+    border-radius: 12px;
+}
+.bfooter{
+    background-image: url('/img/footer.jpeg');
+    height: 400px;
+    background-size: cover;
+    border-radius: 12px;
+}
+kbd{
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 24px !important;
+    padding:5px !important;
+    border-radius: 12px !important;
+
+}
+.hl{
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 20px !important;
+    padding:5px !important;
+    border-radius: 12px !important; 
+    background-color: black;
+    color: white;
+    margin-top: -4px;
+}

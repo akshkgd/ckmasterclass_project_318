@@ -1,3 +1,28 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.air-header{
+    background-image: url('/img/header.webp');
+    height: 600px;
+    background-size: cover;
+}
+.title{
+    font-weight: 600;
+    color:black;
+    font-size:60px;
+    padding-top: 150px;
+    
+}
+.pl-60{
+    padding-left: 60px;
+}
+.ml-60{
+    margin-left: 60px;
+}
+.rounded{
+    border-radius: 12px !important;
+}
+.place{
+    height: 70px;
+    width: 70px;
+}
